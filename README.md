@@ -6,5 +6,4 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/charan-kumar-voonna-4a94881bb/)
 - 😄 Pronouns: he/his
 
-<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/vcharan1729?theme=unicorn&font=Oldenburg)">
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/vcharan1729?theme=unicorn&font=Oldenburg)
