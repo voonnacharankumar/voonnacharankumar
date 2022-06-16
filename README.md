@@ -1,14 +1,14 @@
 ### Hi there 👋 I am Charan Kumar Voonna
 
 
-- 🔭 I’m currently working on Problem Solving.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/charan-kumar-voonna-4a94881bb/)
 - 😄 Pronouns: he/his
 
 
 ## 🌐Socials
-[![LinkedIn](https://www.linkedin.com/in/charan-kumar-voonna-4a94881bb/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-kumar-voonna-4a94881bb/) 
 
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
